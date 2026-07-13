@@ -1,4 +1,4 @@
-# Hi, I am Anshul
+# Hi, I am Ansh
 
 I'm currently learning Backend Development through Boot.dev.
 
